@@ -2,6 +2,6 @@
 
 Domain URL
 
-Domain: https://tritonswap.app/
+Domain: https://usetriton.com/
 
 If you need further verification, feel free to reach out.
